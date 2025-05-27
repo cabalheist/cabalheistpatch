@@ -1,0 +1,2252 @@
+1@ OK
+2@ AUTHENTICATION
+3@ Exit
+4@ OK
+5@ Save ID
+6@ Soft Keyboard
+7@ ID
+8@ Password
+9@ CABAL HEIST
+10@ Exit
+11@ OK
+12@ Save ID
+13@ Soft Keyboard
+14@ ID
+15@ Password
+16@ LOG IN
+17@ Disconnected
+18@ OK
+19@ Save ID
+20@ Soft Keyboard
+21@ ID
+22@ Password
+23@ Log In
+24@ Lv.
+25@ Cancel
+26@ Create
+27@ Female
+28@ Male
+29@ Name
+30@ Gender
+31@ Battle Style
+32@ Appearance
+33@ Hair Style
+34@ Hair Color
+35@ Face
+36@ Rotate View
+37@ CREATE CHARACTER
+38@ OK
+39@ OTP
+954@ OK
+955@ Challenge Code:
+956@ Dynamic Password
+40@ 2,9:6,71:3
+41@ Start
+42@ Back
+43@ 0,2:6
+44@ Select Character
+2039@ Created on
+2040@ Current Map
+45@ SELECT CHARACTER
+61@ Cancel
+62@ Connect Server
+63@ 2,1:5
+64@ SERVER SELECT
+65@ Invite Member
+66@ Invitation Right
+67@ Looting Rule
+68@ Expel Member
+69@ Delegate Leadership
+70@ Leave Party
+71@ Party Search
+72@ Invite Member
+73@ Invite Member
+74@ Looting Rule
+75@ Party Search
+76@ Leave Party
+77@ Register Party
+78@ Open Recruit Off
+79@ Leader Only
+80@ All Members
+81@ Party Search
+82@ Open Recruit
+83@ Cancel Party Search
+2653@ 0,73:5,73:5,75:1
+84@ HP
+85@ MP
+86@ SP
+87@ /
+88@ /
+89@ /
+90@ Strategic Map
+91@ Member List
+92@ Order to enter
+93@ INFO
+94@ 1,29:0,36:0,37:0,29:0
+95@ 1,0:0
+96@ 1,0:0
+97@ 1,0:0
+98@ 1,29:0,31:0,32:0,33:0,29:0
+99@ 1,29:0,30:0,31:0,32:0,29:0,33:0,29:0
+100@ 1,29:0,30:0,31:0,32:0,29:0,33:0,29:0
+101@ 1,0:0
+102@ 1,0:0
+103@ 1,0:0
+104@ 1,0:0
+105@ 1,0:0
+107@ Create
+108@ 2, 66:10
+109@ 1,1:0
+2654@ 2, 74:5 
+2936@ Achievement Rank
+2935@ Short Description
+2937@ Title
+2018@ 2,78:2
+2017@ 2,79:10
+2938@ Achievements
+2939@ Category
+2940@ Details
+2941@ Achievements
+2949@ Short Description
+2950@ Title
+2020@ 2,81:1
+2951@ Achievement Rank
+2952@ Category
+2953@ Ranking
+2954@ Ranking
+2955@ Level
+2956@ Character
+2957@ Guild
+2958@ Achievement Points
+2890@ Achievements
+2918@ Achievement Rank
+2889@ Title
+2888@ View More
+2021@ 2,76:1
+2022@ 2,77:3
+2887@ Short Description
+2926@ Achievements
+2927@ View All Achievements
+2928@ Total Points
+2929@ Achieved
+2920@ Achievements
+2921@ Achievement Rank
+2922@ Short Description
+2023@ 2,81:3
+2923@ Title
+2924@ Title Obtained
+2925@ Registered Title
+2932@ Displayed Title
+2933@ Title with Ability
+2906@ Achievement
+2916@ Close
+110@ Add Buddy
+111@ Add Group
+112@ Block List
+113@ Guild
+114@ BUDDY
+115@ Buddy List
+116@ 2,7:10
+117@ Add on Block List
+118@ Buddy List
+119@ Guild
+120@ BUDDY
+121@ Block List
+122@ 2,7:10
+123@ Guild Menu
+124@ Buddy List
+125@ Block List
+126@ BUDDY
+127@ 2,7:9
+128@ Guild Master
+129@ Created Date
+130@ Number of Members
+131@ Guild Score
+132@ Guild
+133@ Cancel
+134@ OK
+135@ Owner Confirmation Procedure
+136@ Enter your password again please.
+137@ Enter PW
+144@ 0,63:26
+145@ General
+146@ Honor Rank
+147@ WEXP
+148@ W.Rank
+149@ STR
+150@ INT
+151@ DEX
+152@ STR
+153@ INT
+154@ DEX
+155@ Point
+156@ Honor Point
+157@ AP
+158@ (
+159@ )
+194@ DP
+160@ Auto Set
+162@ CHARACTER
+163@ Item Craft
+164@ Specialized
+165@ Required Material
+166@ Qty.
+167@ General
+168@ Item Craft
+169@ General
+170@ 2,20:10
+171@ Required Material
+172@ Qty.
+173@ Specialized
+174@ CRAFT
+175@ No
+176@ Yes
+177@ Delete Character
+178@ You have decided to delete the character.
+179@ The character data including the items will be deleted.
+180@ Are you sure that you want to delete the character?
+181@ No
+182@ Yes
+183@ Delete Character
+184@ You have decided to delete the character.
+185@ Are you sure that you want to delete the character?
+186@ Please keep in mind that you are not allowed to restore.
+187@ OK
+188@ Character Deletion Complete
+189@ The character has been successfully deleted.
+190@ The character deletion has been complete.
+2054@ Location
+261@ Accumulated DP
+2053@ Dungeon Info
+2055@ Class Rank
+2056@ Close
+2622@ Dungeon Point
+2057@ Entry Item
+2058@ Entry Level
+2059@ Max. No.
+2060@ Dungeon
+2067@ Accessible Dungeons
+2061@ 2, 68:10
+191@ 2,26:1,27:2,28:5
+2191@ Periodical Service
+2198@ Other Benefits
+2193@ General Info
+2202@ Other Benefits
+2204@ Periodical Service
+2203@ General Info
+2199@ General Info
+2200@ Periodical Service
+2201@ Other Benefits
+192@ T-Point
+193@ Information
+195@ List
+196@ HELP
+197@ 2,13:25
+201@ Pet
+254@ Alz
+202@ Equip.
+203@ INVENTORY
+204@ Equip.
+205@ Pet
+206@ EXP
+209@ 0, 34:200
+1881@ Delete all
+2250@ Sent Mail
+2247@ Show unread only
+2347@ 2,38:10
+2249@ MAIL
+2253@ Inbox
+2316@ Delete all
+2350@ 2,39:10
+2254@ Sent Mail
+106@ Category
+2252@ List
+2240@ Mail Box
+2246@ Write Mail
+1883@ Guild Invitation
+1884@ Write Mail
+210@ Whisper
+211@ Invite Party
+212@ Request Trade
+213@ Add Buddy
+214@ Follow
+215@ Request PvP
+2024@ View Equipment
+216@ Personal Shop
+217@ Roll a Dice
+218@ Dance
+219@ Look for Party
+220@ Cancel LFP
+2497@ No
+2498@ Yes
+2499@ Create Special Character
+2500@ Would you create the Special Character?
+2886@ Achievements
+480@ Mercenary
+221@ Community
+222@ Character
+2062@ Dungeon
+224@ Mail
+225@ Item Shop
+226@ Skill
+262@ Special Inventory
+227@ Item Upgrade
+228@ Craft
+229@ Help
+230@ Inventory
+231@ Soul Ability
+232@ Juke Box
+233@ GPS
+234@ System Menu
+235@ Quest
+236@ Buddy
+237@ Guild
+238@ Guild Board
+239@ Party
+2722@ Facebook
+240@ Twitter
+2723@ Upload to Web
+2724@ SNS Page
+241@ General
+242@ Title
+243@ General
+244@ Specialized
+2065@ Exit Dungeon
+2064@ Dungeon Info
+2063@ Pause Dungeon
+245@ Essence
+246@ Blended
+247@ Magic
+248@ Sword
+249@ Special
+250@ Upgrade
+455@ Functions to Delete
+456@ Pet Untrain Kit
+457@ Cancel
+458@ Delete Functions
+2633@ Progress
+2634@ Give up
+2635@ Normal
+2636@ Scenario
+2637@ View again
+2638@ 0,5:10,5:10
+2639@ General
+2640@ Delete
+2641@ Progress
+2666@ Restore
+2642@ Scenario
+2643@ View again
+2645@ 2,72:4
+2646@ Scenario
+2647@ Progress
+2648@ General
+2649@ View again
+2650@ 2,6:4
+2651@ Quest
+271@ Channel
+272@ Request Party
+273@ Member
+274@ Party Registration
+275@ Cancel registration
+276@ Recruit Message
+277@ Search Party
+278@ Party Leader
+279@ 2, 53:16
+280@ SEARCH PARTY
+281@ General
+2810@ DP
+282@ Restore
+283@ SHOP
+284@ Restore
+285@ Restore
+286@ Restore
+287@ Restore
+288@ Restore
+289@ Restore
+290@ Restore
+291@ Restore
+292@ Restore
+293@ Restore
+294@ General
+2860@ Shop
+295@ Magic
+296@ Upgrade
+297@ Special
+298@ SKILL
+299@ Sword Rank
+300@ Requirement
+301@ Sword EXP
+302@ Sword Skill Point
+303@ Sword Slots (In Use / Total)
+304@ Sword
+305@ 2,3:5
+306@ Sword
+307@ Upgrade
+308@ Special
+309@ SKILL
+310@ Magic Rank
+311@ Requirement
+312@ Magic EXP
+313@ Magic Skill Point
+314@ Magic Slots (In Use / Total)
+315@ Magic
+316@ 2,3:5
+317@ Sword
+318@ Magic
+319@ Special
+320@ SKILL
+321@ Upgrade Slots (In Use / Total)
+322@ Upgrade
+323@ 2,3:5
+324@ Sword
+325@ Magic
+326@ Upgrade
+327@ SKILL
+328@ Special
+329@ 2,0:1,4:1,0:1,4:1,0:1,4:1,0:1,4:3,0:1,4:5,0:1,4:1,0:1,4:1,0:1,4:1,0:1,4:1,0:1,4:1,0:1,4:22
+330@ AP
+331@ Essence
+332@ Essence Slot (In Use / Total)
+333@ SOUL ABILITY
+334@ 2,59:5
+335@ Blended
+336@ Blended Slot (In Use / Total)
+337@ Blended
+338@ SOUL ABILITY
+339@ 2,60:3
+340@ Essence
+341@ Amount
+342@ Cancel
+343@ OK
+344@ Ready
+345@ TRADE
+346@ Ready
+347@ Build with Alz
+348@ Build with Point
+349@ 2,44:5
+350@ CONTROL PANEL
+351@ Grant Command
+352@ Score
+353@ Invite Party
+354@ 2,45:10
+355@ MEMBER LIST
+356@ Party
+357@ Find my Character
+358@ Extend Party member
+359@ Grant Command
+360@ Invite Party
+361@ Party
+362@ 2,46:10
+363@ MEMBER LIST
+364@ Grant Command
+365@ Find my Character
+2962@ Alz
+370@ WAREHOUSE
+161@ Warehouse
+949@ Core Upgrading
+950@ Quantity
+951@ Cancel
+952@ OK
+2045@ Core Upgrading
+2046@ Used Amount
+2047@ Cancel
+2048@ OK
+379@ Item Upgrade
+380@ Auto Registration
+381@ Item
+382@ Core
+383@ Results
+223@ Alz
+384@ Item Upgrade
+366@ Cancel
+367@ OK
+369@ Input Password
+368@ SUB PASSWORD
+46@ Cancel
+47@ OK
+48@ Password Check Cycle
+49@ Input Password
+50@ SUB PASSWORD
+388@ Cancel
+389@ OK
+390@ Password
+391@ Check Password
+445@ Sub Password
+51@ Create Sub Password
+52@ Create Sub Password
+53@ Change Sub Password
+54@ Change Sub Password
+55@ Delete Sub Password
+56@ Delete Sub Password
+57@ Change Question/Answer
+58@ Change Question/Answer
+59@ Set Sub Password
+393@ OK
+394@ New Dungeon
+395@ You may enter the new dungeon
+396@ Please talk to the NPC.
+405@ GUILD WAREHOUSE
+406@ Sort current tap
+407@ Auto Stack Item(s)
+2964@ Alz
+408@ You can check recent 100 cases.
+409@ Warehouse History
+410@ View Warehouse
+411@ GUILD WAREHOUSE
+412@ 2,62:100
+413@ Close
+414@ Receive all
+415@ TEMPORARY INVENTORY
+416@ Please move your item from temporary invetory
+2108@ T-Point
+2102@ T-Point Shop
+417@ OK
+418@ Quest Complete
+419@ You have completed the quest objective.
+420@ Please talk to the NPC.
+421@ OK
+422@ New Quest
+423@ A new quest is now available.
+424@ Please talk to the NPC.
+425@ Disagree
+426@ Agree
+427@ Agree
+428@ AGREEMENT
+429@ Search
+430@ Search
+431@ Register
+2032@ Item Type
+2031@ Item Type
+432@ Price
+433@ Price
+434@ Name
+435@ Name
+436@ Qty.
+437@ Qty.
+438@ 2, 56:110
+439@ 2,54:15
+440@ Item Purchase
+441@ Type
+442@ Grade
+443@ Epic
+444@ Sort
+446@ Action
+207@ Favorites
+447@ Refresh
+448@ Refresh
+449@ Registration
+450@ Registration
+2970@ Name
+2971@ Name
+2972@ Price
+2973@ Price
+2969@ Qty.
+2968@ Qty.
+2975@ Status
+2974@ Status
+451@ Purchase
+452@ 1, 57:5
+453@ Register
+454@ Register
+459@ Price
+460@ Registered Quantity
+461@ (Price x Quantity)
+462@ Sales Fee (5%)
+463@ Action
+464@ Selling
+465@ Expired
+466@ Sold
+467@ Total Quantity
+468@ Alz
+469@ Period
+470@ Total Price
+471@ Alz
+472@ Alz
+473@ TRADE
+2344@ Close
+2331@ Dazzlement
+2332@ Faith
+385@ 0,70:3
+2487@ 0,70:3
+2330@ Covenant
+2336@ Covenant
+2337@ Faith
+386@ 0,70:3
+2488@ 0,70:3
+2338@ Dazzlement
+2339@ Covenant
+2340@ Dazzlement
+387@ 0,70:3
+2489@ 0,70:3
+2341@ Faith
+2342@ Mercenary
+481@ Unsummon
+482@ Mercenary Information
+474@ Cancel
+475@ OK
+476@ OK
+477@ Cancel
+478@ OK
+479@ Buddy Name
+483@ Cancel
+484@ OK
+485@ Invite Member
+486@ Cancel
+487@ OK
+488@ Invitation Permission
+489@ Expulsion Permission
+490@ Add Guild Group
+491@ Group Name
+492@ Permissions
+493@ Cancel
+494@ OK
+495@ Group Name
+2879@ Cancel
+2880@ OK
+2881@ Character Message
+2882@ Edit the character message.
+2884@ Release from Block List
+496@ Edit Memo
+497@ Change Info.
+498@ Delete Group
+499@ Delete Group
+500@ Delete 
+2026@ View Equipment
+2303@ Write Mail
+501@ Edit Memo
+502@ Invite Party
+503@ Whisper
+2885@ Edit character message
+504@ Add Guildsmen
+505@ Delete Group 
+506@ Change Properties
+507@ Invite Party
+508@ Entrust Guildmaster
+509@ Whisper
+510@ Expel from Guild
+2027@ View Equipment
+2305@ Write Mail
+511@ Expel from Guild
+512@ Invite Party
+513@ Whisper
+2028@ View Equipment
+2306@ Write Mail
+514@ Whisper
+515@ Invite Party
+2029@ View Equipment
+2307@ Write Mail
+516@ Add Buddy
+517@ Delete Group 
+518@ Change Name
+519@ Cancel
+520@ OK
+521@ Delete Blocked Players
+522@ The target will be released from your Block List.
+523@ Once the target is released, you will be able to do chat.
+524@ Would you like to release the target from your Block List?
+525@ No
+526@ Yes
+527@ Delete
+528@ The target will be deleted from your Buddy List.
+529@ Would you like to delete the target from your Buddy List?
+530@ No
+531@ Yes
+532@ Disband Guild
+533@ The guild will be disbanded.
+534@ You can disband the guild after expelling every Guild Member.
+535@ Are you sure that you want to disband your guild?
+536@ No
+537@ Yes
+538@ Delete Guild Group
+539@ The Guild Group will be deleted.
+540@ The members of the group
+541@ will be transferred to the normal group.
+542@ Would you like to delete the guild group from the guild list?
+543@ No
+544@ Yes
+545@ Delete Buddy Group
+546@ The Buddy Group will be deleted.
+547@ Everyone in this group will be removed from your Buddy List.
+548@ Would you like to delete the group from your Buddy List?
+549@ No
+550@ Yes
+551@ Leave Guild
+552@ You have decided to leave the guild.
+553@ Are you sure that you want to leave this guild?
+559@ No
+560@ Yes
+561@ Expel Guild Member
+562@ You have decided to expel the Guild Member.
+563@ Are you sure that you want to expel the Guild Member?
+564@ Cancel
+565@ OK
+566@ Entrust Guildmaster
+567@ Decided to entrust the Guild Member with the guildmaster.
+568@ The guildmaster authority will be entrusted to the target.
+569@ Cancel
+570@ OK
+571@ Edit Buddy Memo
+572@ Edit Memo on Buddies
+573@ Cancel
+574@ OK
+575@ Invitation Permission
+576@ Expulsion Permission
+577@ Guild Group Change
+578@ Group Name
+579@ Permissions
+580@ OK
+581@ Cancel
+582@ New Group Name
+583@ OK
+584@ Blessing Bead has Expired
+585@ Blessing Bead has expired.
+586@ Blessing Bead has expired; item will disappear.
+589@ Close
+590@ Receive
+591@ Receive All
+612@ Cancel
+594@ OK
+595@ Ask no more
+596@ Item Shop Guide
+597@ Please keep your character safe while using Item Shop.
+598@ Otherwise, your character can be attacked
+599@ while you are using Item Shop.
+600@ Cancel
+601@ OK
+602@ CHANGE KIT
+603@ Cancel
+604@ Change style
+605@ 2,43:5
+606@ CHANGE KIT
+607@ OK
+608@ Level-Up Guidance
+609@ STR, INT and DEX are distributed according to Growth Goal,
+376@ Add Buddy
+2025@ View Equipment
+1885@ Guild Invitation
+377@ Invite Party
+2304@ Write Mail
+378@ Whisper
+616@ Cancel
+617@ OK
+618@ Participate channel chatting
+619@ Cancel
+620@ OK
+621@ Enter private chat channel password
+622@ Channel
+623@ Guild
+624@ Shout
+625@ Megaphone
+626@ General
+627@ Party
+628@ Trade
+629@ Whisper
+630@ Item Craft
+631@ Required Material
+632@ Item Craft
+633@ Item Craft
+634@ Required Material
+635@ Item Craft
+636@ Item Craft
+637@ Required Material
+638@ Item Craft
+639@ OK
+640@ Character's Death Penalty
+641@ Your character has received a death penalty.
+642@ You will be released by gaining experience points.
+643@ No
+644@ Yes
+645@ Drop Item
+646@ High valued Item. Please think carefully.
+647@ Are you sure that you want to drop this valuable item?
+648@ OK
+649@ Periodic Item Expired
+650@ Your Periodic item has been expired.
+651@ The following item will disappear.
+654@ [Enter World/Dungeon]
+655@ [Cancel]
+656@ 2,15:10
+657@ Select World/Dungeon
+658@ WARP
+2099@ Single
+2075@ Party
+2100@ Party
+2101@ Single
+2071@ Ranking
+2072@ Dungeon Clear Record
+2073@ Character
+2074@ Record
+2070@ 2,69:10
+2078@ Record
+659@ No
+660@ Yes
+661@ Exit Game
+662@ You have decided to exit the game.
+663@ Are you sure that you want to exit the game?
+2616@ Close
+2620@ Equip in max
+2617@ Grant Option
+2615@ Item
+263@ Material
+264@ /   10
+265@ Cost
+266@ Success Chance
+267@ Alz
+268@ %
+269@ Fixed Option Scroll
+270@ Random Option Scroll
+260@ Force Core
+2614@ Grant Item Option
+673@ Create
+674@ Cancel
+675@ OK
+676@ Create Group
+677@ Group Name
+678@ With. Alz
+679@ Create / Delete Group
+680@ Expel Guild Member
+681@ Search item
+682@ Guild Invitation
+683@ Edit Note
+684@ Group Name
+685@ Change Info.
+686@ With. Alz
+687@ Create / Delete Group
+688@ Expel Guild Member
+689@ Search item
+690@ Invite Guild Member
+691@ Edit Notice
+692@ Invite Guild Member
+693@ Guild Board
+694@ Edit Notice
+695@ Create Group
+696@ Seal Warehouse
+697@ Change Name
+698@ Disband Guild
+699@ Leave Guild
+700@ Cancel
+701@ OK
+702@ OK
+703@ Qty. to Store
+704@ Store Items
+705@ Amount to Retrieve
+706@ Deliver item
+707@ Cancel
+708@ OK
+709@ Deposit Amount
+710@ Cancel
+711@ OK
+712@ Withdrawal Amount
+713@ Cancel
+714@ OK
+715@ Guild Notice
+716@ Guild Introduction
+717@ Guild Website
+718@ GUILD INFORMATION
+719@ [Cancel]
+720@ [Create Guild]
+721@ + Guild name must be 1-20 characters long
+722@ + Maximum number of guild members: 30 ~ 150
+723@ + Maximum number of groups in a guild is 16.
+724@ + Only the Guild master and the guildmen can invite
+725@ with 'the invitation permission' can recruit 
+726@ new guildsmen.
+727@ Please enter your guild name.
+728@ Guild Creation Information
+729@ (Differs depending on Guild level)
+730@ Creating Guild
+731@ Cancel
+732@ OK
+733@ Change Name
+735@ Current Name
+736@ Change Name
+737@ Cancel
+738@ Change
+739@ Change Name
+740@ Current Name: 
+741@ Change Name: 
+742@ Would you Change Name?
+744@ 2,8:4
+747@ Lv. Appropriate Area
+748@ Party Member
+749@ Available Quest
+750@ Warp Gate
+751@ Officer
+752@ Instructor
+753@ Merchant
+754@ Magic Shop
+755@ Warehouse
+756@ Agent Shop
+757@ Event
+758@ Rune Agent
+759@ Dungeon
+252@ Quest in Progress
+253@ Mission Quest
+743@ GPS
+1980@ Cancel
+1981@ OK
+1982@ Quantity
+1983@ Item Purchase
+2791@ /
+1535@ Cancel
+1536@ OK
+1537@ Quantity
+1538@ Register items
+1539@ /
+1540@ Input the Quantity of items to be registered
+1986@ Cancel
+1987@ OK
+1988@ Quantity
+1989@ Item Sale
+2034@ Price
+2033@ Alz
+2808@ /
+760@ Cancel
+761@ Item Extract
+762@ Item Extract
+1895@ Cancel
+1896@ Agree
+1897@ Extract Items
+1104@ Cancel
+1105@ Delete
+1106@ Option Remove
+1107@ The options below will all be removed
+786@ 2,18:10,19:5
+787@ 2,10:10
+803@ Pet
+804@ Core
+805@ Cost
+806@ Alz
+807@  - Force Core (Highest) is required
+808@    for Pet Training. (Core Slot)
+809@  - Pet Training succeeds 100%.
+810@  - Cost for Pet Training depends on
+811@    Pet Option Slot.
+812@  - Cores will be consumed once used.
+813@ Pet Level
+814@ Lv
+815@ Slot for Training
+816@ ea
+819@ Pet Training Progressing
+820@ Pet Training
+823@ Empty Pet slot
+825@ NPC
+826@ NPC
+827@ Chance of Success
+828@ Required Cost
+829@ Blended Rune
+830@ Essence Rune and Core for crafting will be disposed.
+831@ Material
+832@ 2,61:5
+833@ Craft
+834@ Craft Again
+835@ In Crafting Process
+2843@ Set Expiration Date
+2822@ My Item
+2823@ Appearance Change Material Item
+2824@ Money Required
+2825@ Alz
+2847@ [Choose other upgrade types]
+2838@ Restore Appearance
+2837@ Change Appearance
+2839@ NPC
+836@ I would like to join the Capella.
+837@ I would like to join the Procyon.
+838@ Let me think about it.
+839@ Currently, many of Nevareth warriors
+840@ Both confederations are similar 
+841@ in the numbers. however, if you join 
+842@ $4#less Honor points$ in $4#hunting$ and $4#in a war$
+843@ than people in the other confederation.
+844@ are debating which confederation.
+845@ That means, you can not be benefiting
+846@ by joining a confederation with more.
+847@ you will have a chance of gaining
+848@ a confederation with more members,
+849@ NPC
+850@ [NPC Ability]
+851@ [Quest]
+852@ 2,10:10
+853@ NPC
+854@ Accept the Additional Reward
+855@ 2,22:1,23:1,22:1,24:1,22:1,25:2
+856@ Additional Quest Reward
+857@ NPC
+858@ NPC
+859@ [Accept the Dungeon Reward]
+860@ Dungeon Reward
+861@ Item 
+862@ Skill
+863@ Normal
+864@ Please choose a quest reward.
+865@ Ask no more
+866@ No
+867@ Yes
+868@ Purchase Item
+869@ Purchase item
+870@ Are you sure that you want to purchase the item?
+871@ No
+872@ Yes
+873@ Trained Skill
+874@ You have trained it already.
+875@ Purchase it anyway?
+876@ You can't use this book to train it again.
+877@ Sword
+878@ Magic
+879@ Upgrade
+880@ NPC
+881@ Show Available Skills Only
+882@ 2,10:10
+883@ NPC
+884@ 2,11:10
+885@ Leave.
+886@ NPC
+887@ Event Reward
+888@ Goal Information
+889@ Participate
+890@ Receive Reward
+891@ Close
+892@ View achievable goal
+893@ 2,58:20
+894@ NPC
+895@ 2,11:8,21:4
+896@ NPC Ability
+897@ Leave.
+898@ Hello?
+899@ $5#[NPC Ability]$ means unique abilities
+900@ such as item shops or skill trainings.
+901@ $5#[Quest]$ means quests you can
+902@ receive. The progress of a quest will
+903@ Let me introduce you NPC abilities.
+904@ be displayed as $5#(Start)$, $5#(In progress)$,
+905@ $5#(Complete)$. How can I help you?
+906@ NPC
+907@ Cancel
+908@ OK
+909@ Set to default
+910@ Game
+2138@ Display
+911@ Chat
+912@ Key Bindings
+913@ Macro
+914@ Weather Effect
+915@ Distortion Effect
+917@ Show Jukebox(J) on screen
+918@ Whisper Notice
+919@ Mute
+2508@ Listen to game sound while not focused
+920@ Graphic
+921@ Resolution
+922@ Refresh Rate
+923@ Gamma
+924@ Shadow
+925@ Water Effect
+926@ Blur
+927@ Graphic Processing
+928@ Range of View
+929@ Effect
+930@ Multi Sampling
+931@ Sound Effect
+932@ BGM
+933@ Jukebox
+934@ Font
+935@ Sound
+255@ Resolution
+936@ Korean
+937@ English/Number
+938@ Hello~ 1234567
+939@ Hello Test sentence.
+940@ Preferences
+941@ Set to Default
+942@ Preferences
+2140@ Display
+943@ Chat
+944@ Key Bindings
+945@ Macro
+946@ Whisper
+947@ Trade
+948@ Party
+953@ Auto Attack
+957@ PvP
+959@ Shout
+962@ Dash/Blink to Cursor
+964@ Mouse pointer fixed when rotate view
+965@ Expand Quick Slot
+966@ Lock Quick Slot
+2183@ Allow basic attack during auto attack
+2030@ Allow View Equipment 
+2182@ Use esc to open system menu
+2519@ Fade Step to Cursor
+256@ Enable Global Hotkey
+2567@ Active Help Notice
+2717@ Maximum Zoom out Limit
+1882@ Allow Item Combination with Shift+LeftClick
+967@ Forced PK
+2792@ Move sidewards while right-clicking
+968@ Show Skill Animation
+969@ Rotate Camera by touch the frame by mouse
+970@ Send Whisper by Right click Character Name
+971@ Character Option
+972@ Skill Option
+973@ etc
+974@ Camera
+975@ Options
+976@ Game
+2144@ Set to default
+2145@ Preferences
+2184@ Game
+2146@ Chat
+2147@ Key Bindings
+2148@ Macro
+2152@ Player Name
+2153@ Monster Name
+2154@ Npc Name
+2155@ Item Name 
+2157@ Character HP Gauge
+2158@ Monster HP Guage
+2159@ Character Helmet
+2161@ Guild Name/Emblem
+2163@ Dialog Bubble 
+2164@ Combo UI on Top
+2166@ Title
+198@ Display Shortcut on Minimap
+1890@ Show instructions on Item Information
+2760@ Fixed UI window
+2175@ Display
+257@ UI size adjust
+259@ UI settings
+2180@ Display
+979@ Set to default
+2141@ Display
+980@ Preferences
+981@ Game
+982@ Key Bindings
+983@ Macro
+984@ Receive Alz
+985@ Chat Background Fix
+986@ Channel
+987@ Change Chat type with Ctrl + Tab
+2849@ Disregard On/Offline Messages
+988@ Gain EXP
+989@ Guild
+990@ Loot Item
+991@ Shout
+2205@ Click character name and link in the Chat window
+992@ Normal
+993@ Party
+994@ System Message
+995@ System Chat Window Fix
+996@ Trade
+2759@ View TIP Message
+997@ Whisper
+1979@ Disregard Whispers from Enemy
+998@ Chat Message
+999@ Channel Chat
+1000@ System Message
+1001@ Chat Option
+1002@ Transparency
+1003@ Channel Name
+1004@ Password
+1005@ Chat Window
+1006@ System Window
+2850@ Chat Window
+2851@ Chat Line
+2852@ System Window
+1007@ Chat
+1008@ Set to default
+2142@ Display
+1009@ Preferences
+1010@ Game
+1011@ Chat
+1012@ Macro
+1013@ 2, 64:1,65:10,64:1,65:10,64:1,65:20,64:1,65:15,64:1,65:10,64:1,65:10,64:1,65:10,64:1,65:15,64:1,65:15,64:1,65:10
+1014@ Key Bindings
+1015@ Unbind existing Hotkey with Back Space button
+1016@ Existing Hotkey has been overwritten
+1017@ Key Bindings
+1018@ Set to default
+2143@ Display
+1019@ Preferences
+1020@ Game
+1021@ Chat
+1022@ Key Bindings
+1023@ Set Macro
+1024@ Unbind Hotkey with Back Space button
+1025@ Change Hotkey Macro in Key Bindings
+1026@ Hotkey
+1027@ Text
+1028@ Macro
+1029@ OPTION
+1030@ Cancel
+1031@ OK
+1032@ Normal Items
+1033@ Free Looting
+1034@ By Order
+1035@ Leader Only
+1036@ Bind Items
+1037@ Roll a Dice
+1038@ Immediate Settlement
+1039@ PARTY OPTION
+1040@ Cancel
+1041@ OK
+1042@ Use Pet Name Card
+1043@ Change Pet's name by using the Pet Name Card.
+1044@ Current Name
+1045@ New Name
+1046@ OK
+1047@ PK Penalty
+1048@ You cannot talk to NPCs and use Warp Portals.
+1049@ Cancel
+1050@ OK
+1051@ Coat Astral Bike
+1052@ Coat your Astral Bike using paint.
+1053@ Change the Color of your Astral Bike
+1054@ by using 1 Astral Bike Coating Kit.
+1055@ Would you like to continue?
+1944@ Cancel
+1945@ Reset
+1946@ Stats Reset
+1947@ The character's stat will be changed as below.
+1948@ Str
+1949@ Int
+1950@ Dex
+1951@ Points
+1056@ Connecting ...
+1057@ Connecting ...
+1058@ Loading ...
+1059@ Wait for Warp
+1060@ Purchase
+1061@ Close
+1062@ Selling
+1063@ Personal Shop
+1064@ Start
+1065@ Stop
+1066@ Close
+1067@ Update
+2087@ Premium Shop
+1068@ Selling
+1069@ Selling
+1070@ PERSONAL SHOP
+1071@ OK
+1072@ Cancel
+1073@ Character Name
+1074@ No
+1075@ Yes
+1076@ Leave Party
+1077@ You have decided to leave the party.
+1078@ Are you sure that you want to leave the party?
+1079@ Cancel
+1080@ OK
+1081@ Expel Member
+1082@ You have decided to expel the party member.
+1083@ Are you sure that you want to expel the party member?
+1095@ Challenge
+2312@ Exit
+1096@ Mission Penalty :
+1097@ DUNGEON
+1098@ Cancel the Dungeon Entry
+1099@ You have decided to exit without trying the dungeon.
+1100@ You have decided to return to the dungeon entrance.
+1101@ Would you like to continue?
+1102@ Cancel
+1103@ OK
+2518@ OK
+1108@ Quest Dungeon Failed
+1109@ Mission Penalty
+1110@ DUNGEON
+2517@ Roll a Dice
+2516@ OK
+1112@ Quest Dungeon Cleared!
+1113@ Dungeon
+1114@ OK
+1115@ Register Item
+1116@ Quantity
+1117@ Cancel
+1118@ OK
+1119@ Use Rename Card
+1120@ Change your character name using the Rename Card.
+1121@ Current Name
+1122@ New Name
+2874@ Cancel
+2875@ OK
+1123@ Request Party
+1124@ Whisper
+1125@ Cancel
+1126@ Register
+1127@ Open Recruit
+1128@ Recruit Message
+1129@ Party Member
+1130@ No
+1131@ Yes
+1943@ Ask no more
+1132@ Selling Item
+1135@ No
+1136@ Yes
+1137@ Ask no more
+1138@ Selling Item
+1139@ This item is expensive. Are you sure to sell it?
+1141@ No
+1142@ Yes
+1143@ Ask no more
+1144@ Purchase Item
+1145@ You are purchasing a item.
+1146@ Are you sure that you want to purchase the item?
+1147@ No
+1148@ Yes
+1149@ Ask no more
+1150@ Purchase Item
+1151@ Price :
+1152@ No
+1153@ Yes
+1154@ Purchase item
+1155@ High valued Item. Please think carefully.
+1156@ Cancel
+1157@ OK
+1158@ Notice
+1159@ This is a notice regarding selling Quest Items to NPC shops.
+1160@ If you sell your Quest Items,
+1161@ You may not be able to proceed with your quests.
+1162@ Would you like to continue?
+1163@ Cancel
+1164@ Check
+1165@ Delete Skills
+1166@ You have decided to delete the skill.
+1167@ Would you like to completely delete the skill?
+1168@ OK
+1169@ OK
+1170@ New Skills
+1171@ Learn New Skills
+1172@ You can learn new skills from instructors in towns.
+1173@ No
+1174@ Yes
+1175@ Untrain Skills
+1176@ You have decided to untrain your skill.
+1177@ Would you like to lower the skill's level by untraining?
+613@ Cancel
+2725@ OK
+2726@ Do not check again
+2727@ Notice
+2728@ Please use in a safe area
+2731@ SNS
+2733@ Webpage
+2735@ Twitter
+2736@ Post
+2793@ Post
+2737@ Facebook
+2738@ Name
+2740@ Facebook
+2742@ Twitter
+2743@ Post
+2744@ Webpage
+2745@ Upload a screenshot to the User Gallery
+251@ Title :
+2747@ Facebook
+2748@ Webpage
+2750@ Post
+2751@ Twitter
+2752@ Twitter ID
+2753@ Close
+1178@ OK
+1179@ Item Distribution
+1180@ Quantity
+1181@ Cancel
+1182@ OK
+1183@ Force Core Slot Extension
+1184@ Use a Slot Extender.
+1185@ Using 1 Slot Extender will add 1 more slot
+1186@ for the item's Force Core.
+1187@ However, the item will be bound to you.
+1188@ Cancel
+1189@ Cancel
+1190@ Trade Complete
+1191@ OK
+1192@ Trande Confirm
+1193@ Are you ready to start the trade?
+1194@ Please remember, once you confirm a trade, you cannot
+1195@ change the target items or the amount of Alz.
+1196@ Would you like to continue?
+1197@ Trade Confirm
+1198@ Would you like to complete trading?
+1199@ Please double check character name, items,
+1200@ and the amount of Alz.
+1201@ Similar name to the name in the buddy list or the guild member list.
+1205@ Cancel
+1206@ OK
+1207@ Trade Amount
+1211@ Cancel
+1212@ OK
+1213@ Item Upgrade
+1214@ Upgrade the item by using Core Enhancer.
+1215@ Increase the selected Upgrade Core's success chance
+1216@ by using Core Enhancer.
+2796@ Cancel
+2797@ OK
+2798@ Amount Stored
+2799@ Store Items
+2800@ Sales Fee
+2801@ Alz
+2789@ /
+2802@ Cancel
+2803@ OK
+2804@ Amount to Retrieve
+2805@ Search Item
+2806@ Fee
+2809@ 0
+2807@ Alz
+2790@ /
+208@ Exchange Honor Point
+2212@ EXP Exchange 
+2214@ WEXP Exchange
+2218@ Skill EXP Exchange
+2215@ You can exchange the items below with WEXP.
+371@ Current WEXP :
+2221@ WEXP Required:
+2223@ Cancel
+2222@ OK
+1217@ Cancel
+1218@ OK
+1219@ Notice
+1220@ This is a notice regarding selling Quest Items to NPC shops.
+1221@ In case of storing Quest Items in your personal Warehouse,
+1222@ You may not be able to proceed with your quests.
+1223@ Would you like to continue?
+1224@ Cancel
+1225@ OK
+1226@ Deposit Amount
+1227@ Cancel
+1228@ OK
+1229@ Withdrawal Amount
+1910@ Cancel
+1911@ OK
+1912@ Add to Favorites
+1913@ Name the Favorites link.
+1916@ Cancel
+1917@ OK
+1918@ Delete the Favorites link
+1919@ Delete the Favorites link.
+372@ Would you like to delete the Favorite link of the icon?
+1926@ Delete
+1925@ Rename
+1924@ Search
+1920@ Cancel
+1921@ OK
+1922@ Rename
+1923@ Rename the Favorites link.
+1230@ Cancel
+1231@ OK
+1232@ Leave chat channel
+1233@ Leave chat channel
+1234@ Would you like to leave the next chat channel?
+1235@ Channel Name :
+1236@ Cancel
+1237@ OK
+1238@ Create chat channel
+1239@ Channel Name
+1240@ Password
+1241@ Please enter a chat channel title and password.
+1242@ OK
+1243@ Create chat channel
+1244@ Channel Name :
+1245@ Password :
+1246@ You have successfully created the chat channel.
+1886@ OK
+1905@ No
+1904@ Yes
+1892@ Please select the method of revival.
+1893@ Your character has been defeated.
+1908@ Using the Honorable Circle.
+1909@ Honorable Circle
+1901@ Your character has been defeated.
+1902@ You have no Odd Circle.
+1888@ sec
+1270@ No
+1271@ Yes
+1272@ Would you like to participate?
+1273@ Event reward can only be received according to the
+1274@ limited numbers set for the reward.
+1275@ Remaining Reward Qty:
+1276@ Event
+1277@ No
+1278@ Yes
+1279@ Would you like to participate?
+1280@ Event reward can only be received according to the
+1281@ limited numbers set for the reward.
+1282@ Remaining Reward Qty:
+1283@ Event
+2812@ Use Item
+2813@ Target
+2814@ Location
+2815@ Do you want to use the Leap of Hero?
+2816@ No
+2817@ Yes
+2356@ Sender
+2270@ Title
+2271@ Attached Item
+2272@ Attached Alz
+2273@ Read
+2274@ Close
+2279@ Delete
+2281@ Next
+2280@ Prev
+2278@ Reply
+2368@ Recipient
+2267@ Title
+373@ Attached Item
+374@ Attached Alz
+2372@ Read
+2373@ Close
+2374@ Delete
+2375@ Next
+2376@ Prev
+2269@ Recipient
+2378@ Title
+2379@ Attached Item
+2380@ Attached Alz
+2262@ Write
+2819@ Close
+2818@ Send
+1284@ Immediate Settlement
+1285@ Give up
+1286@ Bid
+1287@ Bid
+1288@ Roll a Dice
+1289@ Give Up
+1290@ Roll a Dice
+1291@ Roll a Dice
+1292@ Cancel
+1293@ OK
+1294@ Item Selling Price
+1295@ Cancel
+1296@ OK
+1297@ Auto insert
+1298@ Item Purchasing Price
+1299@ Cancel
+1300@ OK
+1301@ Change Item Price
+1302@ You have decided to change the item price.
+1303@ Are you sure that you want to change the item price?
+1304@ Cancel
+1305@ OK
+1306@ Closing Personal Shop
+1307@ You are closing your Personal Shop.
+1308@ Would you like to close your Personal Shop?
+1309@ (When you close your shop, the items registered 
+1310@ on selling list will be moved to you inventory.)
+1311@ Cancel
+1312@ OK
+1313@ Stop Selling Mode
+1314@ You are stopping Selling Mode.
+1315@ Would you like to stop Selling Mode?
+1316@ 
+1317@ 
+2754@ Screenshot
+2755@ Attach
+2756@ Close
+614@ No
+652@ Yes
+392@ Purchase Item
+672@ Price
+615@ Cancel
+653@ OK
+664@ Purchase Item
+258@ Quantity
+745@ Price for Purchase
+3019@ Cancel
+3020@ OK
+3021@ Purchase Item
+3022@ Quantity
+3023@ Price for Purchase
+1332@ Ready
+1333@ Ready
+2521@ Twitter
+2523@ Attach
+2522@ Close
+2524@ Tweet
+2525@ Screen Shot
+2528@ Screen Shot
+2537@ Close
+2536@ Post
+2532@ Tweet
+2533@ Tweet ID
+1334@ No
+1335@ Yes
+1336@ Hide Message
+1337@ Use Warp Stone
+1338@ Move to Nation Reward Warp
+1339@ Warp Stone will be used for a defeated nation 
+1340@ when using Nation Reward Warp. 
+1341@ Wish to use Nation Reward Warp?
+1342@ Hotkey 1
+1343@ Hotkey 2
+1344@ Not Bound
+1345@ Not Bound
+1346@ Item Type
+1347@ Recommended Class
+2560@ HELP
+2564@ Close
+2563@ List
+2565@ Active Help Notice
+2571@ Help
+2966@ 1,80:1,51:1
+2960@ View More
+1348@ Purchase
+1349@ Purchase
+1350@ 1,54:0,55:0
+1351@ 1,0:0
+1352@ Receive Alz
+1353@ Cancel
+1354@ Change
+1355@ Register
+1356@ 1,7:0
+1357@ 1,6:0,17:0
+1358@ Receive
+1359@ Present Information
+1360@ Times Available :
+1361@ Number :
+1362@ Option :
+1363@ 1,13:0
+1368@ 1,0:0
+2655@ 1,6:0,17:0
+2618@ 1,13:0
+2656@ 1,72:0,17:0
+1370@ Repeat the Ending Scroll
+1373@ Alz(Point)
+1374@ 1,45:0
+1375@ 1,50:0
+1376@ 1,0:0
+1377@ 0
+1378@ 1
+1379@ 2
+1380@ 3
+1381@ 4
+1382@ 5
+1383@ 6
+1384@ 7
+1385@ 8
+1386@ 9
+1387@ `
+1388@ -
+1389@ =
+1390@ \
+1391@ q
+1392@ w
+1393@ e
+1394@ r
+1395@ t
+1396@ y
+1397@ u
+1398@ i
+1399@ o
+1400@ p
+1401@ a
+1402@ s
+1403@ d
+1404@ f
+1405@ g
+1406@ h
+1407@ j
+1408@ k
+1409@ l
+1410@ z
+1411@ x
+1412@ c
+1413@ v
+1414@ b
+1415@ n
+1416@ m
+1417@ [
+1418@ ]
+1419@ ;
+1420@ '
+1421@ ,
+1422@ .
+1423@ /
+1424@ Delegate Leadership
+1425@ Expel Member
+1426@ Authorize right to invite
+1427@ Deprive right to invite
+2961@ Achievement Info
+2019@ Equipment Info
+1428@ Gained EXP
+1429@ Insufficient EXP
+1430@ Death Penalty
+1431@ AXP
+1432@ ITEM INFO
+1433@ Resting Experience Point
+1434@ Cancel
+1435@ Receive Alz
+1436@ Confirm Receipt
+1437@ Accept a payment for your item.
+1438@ Gross Sales
+1439@ Fee
+1440@ Net Sales
+1441@ Use Coupon
+1442@ Alz
+1443@ Alz
+1444@ Alz
+1445@ Cancel
+1446@ Cancel
+1447@ OK
+1448@ Quantity
+1449@ Price
+1450@ Alz
+1451@ Quantity
+1452@ Price
+1453@ Alz
+1961@ Move Channel
+1962@ Move to a different channel.
+375@ Would you like to move?
+1963@ Current Channel: 
+1966@ Selected Channel:
+1965@ No
+1964@ Yes
+1454@ OK
+1455@ Disconnected
+1456@ You have been disconnected from the server.
+1457@ Please relog in after clicking 'OK'
+1458@ OK
+1459@ Unable to connect to the server
+1460@ You are unable to connect to the server.
+1461@ Please press the confirm button to exit the game.
+1462@ OK
+1463@ Dual Login
+1464@ Login Attempt to the Same Account
+1465@ You have been disconnected from the server because
+1466@ someone has logged in the game using the same account.
+1467@ An error has occurred while communicating with the server.
+1468@ Please relog in after clicking 'OK'
+1469@ OK
+1470@ Exit Program
+1471@ Program is being closed because some of the files are corrupted.
+1472@ Please restart and update the game.
+1473@ (If the same error continues, please uninstall the game 
+1474@ and reinstall.)
+2309@ Give up Dungeon
+2310@ Give up Dungeon
+2311@ Leave to field.
+2229@ Resume
+2224@ Pause
+2225@ Pause Dungeon
+1475@ OK
+1476@ OK
+1477@ Warning for Item disposal in Temporary Inventory
+1478@ Please move your item from temporary invetory
+1479@ Item in Temporary Inventory would be disposed after
+1480@ disconnection. Please move your item to Inventory
+1481@ OK
+1482@ Error Information
+1483@ The item does not exist.
+1484@ The item does not exist, and it will be automatically removed.
+1485@ OK
+1486@ Error Information
+1487@ The game will be paused for a while.
+1488@ The game will continue in 5 seconds.
+1489@ sec
+1490@ Disconnected
+1491@ An error has occurred while communicating with the server.
+1492@ Please exit the game and log in again.
+1493@ OK
+1494@ Exit Game
+1495@ Disconnected
+1496@ You have been disconnected from the server.
+1497@ Please exit the game and log in again.
+1498@ Register Coordinates
+1499@ Register your current coordinates.
+1500@ Would you like to register the coordinates to Frontier Stone?
+1501@ No
+1502@ Yes
+1503@ OK
+1504@ Disconnected
+1505@ An error has been detected by the hacking protection system.
+1506@ Exit Program
+1507@ Unusual game play has been detected.
+1508@ The game will be closed because of unusual game play.
+2294@ No
+2295@ Yes
+2296@ Block
+2297@ Block the sender.
+2298@ No
+2299@ Yes
+2300@ Ask no more
+2301@ No
+2302@ Delete the mail.
+2289@ No
+2290@ Yes
+2292@ Report
+2293@ Report the mail.
+2284@ No
+2285@ Yes
+2286@ Ask no more
+2287@ Return
+2288@ Return the mail.
+554@ No
+555@ Yes
+556@ Ask no more
+557@ Send
+558@ Would you send the Mail?
+60@ Recipient
+587@ Attached Alz
+588@ Attached Item
+1509@ OK
+1510@ Event Notice
+2313@ View Titles
+2314@ Acquire Title
+2315@ You have acquired the title: Colony Trainee.
+2110@ Confirm Exchange
+2111@ Exchange an item with T-Points.
+2112@ Would you like to exchange the item?
+2113@ Points Required:
+2114@ Exchange Item:
+2115@ No
+2116@ Yes
+1511@ Failed to connect the world server.
+1512@ You have failed to connect the world server.
+1513@ Please press 'confirm' button and try to reconnect.
+1514@ OK
+1515@ Failed to connect the server.
+1516@ You have failed to connect the server.
+1517@ Please try later.
+1518@ OK
+1519@ Failed to connect the world server.
+1520@ You have failed to connect the world server.
+1521@ Please try to connect again.
+1522@ OK
+1523@ Delete Quest
+1524@ Are you sure that you want to abandon the quest?
+1525@ Abandoned quests can be restored from
+1526@ the quests list.
+1528@ Cancel
+1529@ Delete Quest
+1530@ No
+1531@ Yes
+1532@ Abandon Quest
+1533@ Do you want to delete the quest?
+1534@ This quest will be deleted from your quest list in 30 seconds.
+2977@ Abandon Quest
+2978@ Would you like to retire from the Quest?
+2981@ Cancel
+2982@ Abandon Quest
+1541@ Dual Login
+1542@ The ID is already in use.
+1543@ The ID has been connected to server.
+1544@ Would you like to close the session and reconnect?
+1545@ No
+1546@ Yes
+1547@ Exit Game in a Dungeon
+1548@ Do you want to terminate the connection in dungeon?
+1549@ If you exit game while staying in a dungeon, it will
+1550@ automatically close. If you disconnect without
+1551@ clearing the dungeon, penalty might be granted.
+1552@ No
+1553@ Yes
+1554@ Exit Game in a Dungeon
+1555@ Do you want to terminate the connection in dungeon?
+1556@ If you exit game while staying in a dungeon,
+1557@ Dungeon will be automatically closed. If you disconnect without
+1558@ clearing the dungeon, dungeon penalty might be granted.
+1559@ NO
+1560@ Yes
+1561@ Dungeon Entry
+1562@ Canceling Party Search
+1563@ Find party member will be canceled when you enter the dungeon.
+1564@ you enter the dungeon. Would you like to enter?
+1565@ No
+1566@ Yes
+1567@ Exit Game in a Dungeon
+1568@ Do you want to terminate the connection in dungeon?
+1569@ You will exit dungeon automatically to enter
+1570@ Dungeon will be closed. If you disconnect without clearing the dungeon,
+1571@ dungeon penalty might be granted.
+1572@ No
+1573@ Yes
+1574@ Select Character
+1575@ Move to Select Character Window
+1576@ Do you want to move to Select Character Window?
+1577@ Yes
+1578@ No
+1579@ Select Server
+1580@ Move to Select Server Window
+1581@ Do you want to move to Select Server Window?
+1582@ No
+1583@ Yes
+1584@ OK
+1585@ Notice
+1586@ This is a notice
+1587@ OK
+1588@ Battle Style Mastery Lv. UP
+1589@ Battle Style Lv. UP Reward 
+1590@ Sub password
+1591@ Q.
+1592@ A.
+1593@ Please type in the answer according to the question.
+1594@ Set Question and Answer
+1595@ Cancel
+1596@ Ok
+2539@ Twitter
+2540@ ID
+2541@ Password
+2542@ Login to Twitter
+2544@ Cancel
+2545@ Ok
+2547@ Twitter
+2548@ Do you want to log out from Twitter?
+2552@ No
+2553@ Yes
+1597@ Update
+1598@ The game will close to receive the update.
+1599@ Please restart the game to receive the update.
+1600@ Please restart the game again.
+1601@ Mark Enemy symbol
+1602@ Mark Alliance Party
+1603@ Alliance base
+1604@ Enemy base
+1605@ Alliance point
+1606@ Enemy point
+1607@ Neutral point 
+1608@ Party Leader
+1609@ Warp/Resurrect
+1610@ Battle point
+1611@ Ally Party Leader
+1612@ Party Member
+1613@ GPS
+1614@ Occupied HQ
+1615@ Occupied Fortress
+1616@ Destroy Enemy
+1617@ Desroy Force Tower
+1618@ Destroy Legacy Guardian
+1619@ Left Force Tower
+1620@ War Expense
+1621@ Personal Record
+1622@ Reward
+1623@ Personal Expense
+1624@ Total equipment
+1625@ Winning Bonus
+1626@ Ranking
+1627@ Ranking rewards
+1628@ Alz
+1629@ Alz
+1630@ Alz
+1631@ Alz
+1632@ Alz
+1633@ WExp
+1634@ p
+1635@ Given Dmg
+1636@ Gained Dmg
+1637@ Heal point
+1638@ Build Tower
+1639@ AXP
+1640@ AXP
+1641@ Personal Score
+1642@ Gained
+1643@ Reward
+1644@ Total Alz Reward
+1645@ Kill/Death
+1646@ REPORT
+1647@ Ok
+1648@ Ok
+2207@ No
+2206@ Yes
+2208@ WEXP Exchange
+2209@ Would you like to exchange your WEXP?
+2210@ Once WEXP is exchanged, it cannot be retrieved.
+1649@ Create Character in the Test Server
+1650@ Would you like to create a character in the test server?
+1651@ Please remember, every characters in test server can be reset
+1652@ any time for game testing purposes.
+1653@ No
+1654@ Yes
+1954@ 2, 67:20
+1952@ Move Channel
+1655@ Death Penalty
+1656@ HP
+1657@ MP
+1955@ Select Channel
+2068@ Select Channel
+1658@ Select Character
+2069@ Select Character
+1659@ Cancel
+1660@ Exit Game
+1661@ GM Message
+1662@ Options
+1663@ Select Server
+1664@ MENU
+1665@ Disconnected
+1666@ You will be disconnected from server.
+1667@ You will be disconnected from the server in 5 seconds.
+1668@ sec
+1669@ Disconnected
+1670@ You will be disconnected from the server
+1671@ Due to no gaining personal ranking score at warning status,
+1672@ sec
+1673@ You will be automatically disconnected from the server
+1674@ Disconnected
+1675@ You are disconnecting 
+1676@ You will disconnect from the server in 5 Sec.
+1677@ sec
+1678@ Chat
+1679@ Delete
+1680@ Delete All
+1681@ Edit Memo
+1682@ Hide
+1683@ Mini Map
+1684@ Ok
+1685@ Cancel
+1686@ Edit Memo Spot
+1687@ Create
+1688@ Cancel
+1689@ Guild Creation
+1690@ Create a guild.
+1691@ A total of $3#10,000,000$Alz will be used in creating a guild.
+1692@ Dismiss Guild
+1693@ Cancel
+1694@ Dismiss Guild
+1695@ The guild will be dismissed.
+1696@ To recreate a Guild,
+1697@ Alz will be spent.
+1698@ Cancal
+1699@ Close
+1700@ Open Item Shop
+1701@ Join
+1702@ No
+1703@ Ok
+1704@ Yes
+1705@ Receive WEXP 150%
+1706@ No
+1707@ Yes
+1708@ Ask no more
+1709@ Delete mail
+1710@ Mail will be deleted.
+1711@ Do you really want to delete this mail?
+1712@ (Deleted mail will not be recovered)
+1713@ No
+1714@ Yes
+1715@ Delete mail
+1716@ There is an item or Alz you did not receive
+1717@ Do you really want to delete this mail?
+1718@ (Deleted mail will not be recovered)
+1719@ OK
+1720@ Organize Inbox
+1721@ Your inbox is full.
+1722@ Mail can not be received because your Inbox is full.
+1723@ Please empty your Inbox.
+1724@ No
+1725@ Yes
+1726@ SOUL ABILITY
+1727@ Would you like to learn Soul Ability?
+1728@ Cost:
+1729@ Ability:
+1730@ Learning Soul Ability.
+1731@ SOUL ABILITY
+1732@ Level Up Cost:
+1733@ Level Up Amt:
+1734@ SOUL ABILITY
+1735@ Ability item and the cost spent cannot be 
+1736@ Would you like to delete Soul Ability?
+1737@ Deleting Soul Ability.
+1738@ Deleted Soul Ability cannot be restored. 
+1739@ CABAL Security Check
+1740@ PLEASE ENTER IMAGE
+1741@ VERIFICATION CODE
+1742@ OK
+1743@ Ask later
+1744@ Set it now
+1745@ Ask no more
+1746@ Security Alert
+1747@ Sub Password Guidance
+1748@ Periodical Service (Not Used)
+1749@ Benefits
+1750@ Unlocked Quick Slot
+1751@ Locked Quick Slot
+2196@ CABAL Menu
+2197@ Item Shop
+2041@ CABAL Security Check
+1753@ Set Password
+2042@ OK
+1756@ Refresh
+1757@ Save Chat Log
+1758@ Save Chat Log
+1759@ Save Chat Log
+1760@ Save Chat Log
+1761@ Save Chat Log
+1762@ Save Chat Log
+1763@ Save Chat Log
+1764@ Save chat log
+1765@ Sub Password
+1766@ Sub Password
+1767@ GPS
+1768@ GPS
+1769@ Member List
+1770@ Shop
+2872@ Remote Controlled Cash Shop
+788@ Item Shop
+789@ Character
+790@ Help
+791@ Inventory
+792@ Quest
+1771@ Item Upgrade
+1772@ Currently selling items in personal shop.
+1773@ You can use the item only when your Battle Style reaches at least level 11.
+1774@ Premium Service users only.\Premium Service is available in Item Shop
+1775@ Premium Service users only.\Premium Service is available in Item Shop.
+1776@ Platinum Service users only.\Platinum Service is available in Item Shop.
+1777@ This extra warehouse is available with Blessing Bead only. \You can use this warehouse only when you have a Warehouse Expansion Blessing Bead.
+1778@ Temporary Inventory
+138@ This extra warehouse is available with Blessing Bead only. \You can use this warehouse only when you have a Warehouse Expansion Blessing Bead.
+139@ This extra warehouse is available with Blessing Bead only. \You can use this warehouse only when you have a Warehouse Expansion Blessing Bead.
+140@ This extra warehouse is available with Blessing Bead only. \You can use this warehouse only when you have a Warehouse Expansion Blessing Bead.
+141@ This extra warehouse is available with Blessing Bead only. \You can use this warehouse only when you have a Warehouse Expansion Blessing Bead.
+1779@ Depo.
+1780@ Sub Password
+1781@ Sub Password
+1782@ With.
+142@ Close Expanded Warehouse
+143@ Open Expanded Warehouse
+1783@ Sort by Group Name
+1784@ Show Online Only
+1785@ Sort by Group Name
+1786@ Show Online Only
+2873@ Destroy Item
+2520@ Lock the equipment
+1787@ Helmet
+1788@ Suit
+1789@ Gloves
+1790@ Boots
+1791@ Weapon
+1792@ Weapon
+1793@ Epaulet
+1794@ Amulet
+1795@ Ring
+1796@ Ring
+1797@ Bike / Board
+1798@ Earrings
+1799@ Earrings
+1800@ Bracelet
+1801@ Bracelet
+1802@ Ring
+1803@ Ring
+1804@ Belt
+765@ Notice
+766@ Group Mail
+767@ Normal Mail
+768@ Cover Mail
+769@ Returned Mail
+2644@ See deleted quests only
+2652@ Show Available Quests Only
+770@ Notice
+771@ Group Mail
+772@ Normal Mail
+773@ Cover Mail
+774@ Delete mail
+2848@ Refresh
+1805@ Close Channel
+1806@ Make/Participate Channel
+1807@ Auto Registration
+1808@ Auto Registration
+1809@ Auto Registration
+1810@ Auto Registration
+1811@ Auto Registration
+1812@ Auto Registration
+1813@ Auto Registration
+1814@ Auto Register
+1815@ This service is for Premium users only.
+1816@ This service is for Premium users only.
+1817@ This service is for Premium users only.
+1818@ This service is for Premium users only.
+1819@ This service is for Premium users only.
+1820@ This service is for Premium users only.
+1821@ This service is for Premium users only.
+1822@ This service is for Premium users only.
+1823@ This service is for Premium users only.
+1824@ This service is for Premium users only.
+1825@ This service is for Premium users only.
+1826@ This service is for Premium users only.
+1827@ This service is for Premium users only.
+1828@ This service is for Premium users only.
+1829@ This service is for Premium users only.
+1830@ This service is for Premium users only.
+1831@ This service is for Premium users only.
+1832@ This service is for Premium users only.
+1833@ This service is for Premium users only.
+1834@ This service is for Premium users only.
+1835@ This service is for Premium users only.
+1836@ This service is for Premium users only.
+1837@ This service is for Premium users only.
+1838@ This service is for Premium users only.
+1839@ This service is for Premium users only.
+1840@ This service is for Premium users only.
+1841@ This service is for Premium users only.
+1842@ This service is for Premium users only.
+1843@ This service is for Premium users only.
+1844@ This service is for Premium users only.
+1845@ This service is for Premium users only.
+1846@ This service is for Premium users only.
+1847@ This service is for Premium users only.
+1848@ This service is for Premium users only.
+1849@ This service is for Premium users only.
+1850@ This service is for Premium users only.
+1851@ This service is for Premium users only.
+1852@ This service is for Premium users only.
+1853@ This service is for Premium users only.
+1854@ This service is for Premium users only.
+1855@ This service is for Premium users only.
+1856@ This service is for Premium users only.
+1857@ This service is for Premium users only.
+1858@ This service is for Premium users only.
+1859@ This service is for Premium users only.
+1860@ This service is for Premium users only.
+1861@ This service is for Premium users only.
+1862@ This service is for Premium users only.
+1863@ This service is for Premium users only.
+1864@ This service is for Premium users only.
+1865@ This service is for Premium users only.
+1866@ This service is for Premium users only.
+1867@ This service is for Premium users only.
+1868@ This service is for Premium users only.
+1869@ This service is for Premium users only.
+1870@ This service is for Premium users only.
+1871@ This service is for Premium users only.
+1872@ This service is for Premium users only.
+1873@ This service is for Premium users only.
+1874@ This service is for Premium users only.
+1875@ This service is for Premium users only.
+1876@ This service is for Premium users only.
+1877@ This service is for Premium users only.
+2282@ Accept Alz
+2283@ Accept Item(s)
+2757@ Cancel attach
+2555@ Cancel attach
+2732@ Cancel attach
+2734@ Attach screenshot
+2739@ Cancel attach
+2741@ Attach screenshot
+2746@ Cancel attach
+2749@ Attach screenshot
+2401@ Block
+2402@ Delete
+2403@ Reply
+2404@ Report
+2405@ Return
+2406@ Delete
+2554@ Cancel attach
+2546@ Logout
+1878@ With.
+1879@ Depo.
+1880@ Usage History
+1999@ Helmet
+2000@ Suit
+2001@ Gloves
+2002@ Boots
+2003@ Weapon
+2004@ Weapon
+2005@ Epaulet
+2006@ Amulet 
+2007@ Ring
+2008@ Ring
+2009@ Bike/Board
+2010@ Earrings
+2011@ Earrings
+2012@ Bracelet
+2013@ Bracelet
+2014@ Ring
+2015@ Ring
+2016@ Belt
